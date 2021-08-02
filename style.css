@@ -1,0 +1,95 @@
+body{
+
+background-color: white;
+
+}
+
+  hr{
+
+  background-color:#d54d7b;
+  border-style: none;
+  height: 2px;
+  width: 60%;
+
+
+  }
+
+  h4{
+    color: #291a1e;
+    font-style: italic;
+    font-size: 15px;
+    text-align: center;
+
+ }
+
+ h1{
+   color: #e31747;
+   font-style: italic;
+  font-family: "Lucida Calligraphy", cursive;
+  font-size: 40px;
+   text-align: center;
+
+}
+
+h2{
+  color: #291a1e;
+  font-style: italic;
+  font-style: italic;
+ font-family: "Lucida Calligraphy", cursive;
+  text-align: center;
+
+
+}
+
+h3{
+  color: #e31747;
+  margin-right: 220px;
+    margin-left: 300px;
+
+}
+
+h5{
+  color: #291a1e;
+  margin-right: 220px;
+    margin-left: 300px;
+
+}
+
+
+
+a {
+color: #7a7c7f;
+text-decoration: none;
+text-align: center;
+}
+
+
+ul{
+text-align: justify;
+margin-right: 250px;
+  margin-left: 300px;
+
+}
+
+
+table{
+
+  margin-left: auto;
+  margin-right: auto;
+
+}
+
+td {
+  text-align:left;
+
+}
+
+img{display: block;
+  margin-left: auto;
+  margin-right: auto;
+
+}
+
+p{text-align: center;
+
+}
